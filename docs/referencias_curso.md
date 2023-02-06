@@ -11,10 +11,10 @@ Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. S
 
 # Otros textos
 
-* Álvarez, Diego A. (2023) - Notes for a course on continiuum mechanics. En preparación.
-* Oliver, X., Agelet, C. (2002) - Mecánica de Medios Continuos para Ingenieros.
-* Bonet, J., Gil, A.J., Woods, R (2016) -* Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
-* Mase, G., Smelser, R.E., Mase, G.E. (2009) - Continuum Mechanics for Engineers.
+* Álvarez, Diego A. (2023). *Notes for a course on continiuum mechanics*. En preparación.
+* Oliver, X., Agelet, C. (2002). *Mecánica de Medios Continuos para Ingenieros*.
+* Bonet, J., Gil, A.J., Woods, R (2016). *Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
+* Mase, G., Smelser, R.E., Mase, G.E. (2009). *Continuum Mechanics for Engineers*.
 
 # Para repasar álgebra lineal, cálculos y programación
 
