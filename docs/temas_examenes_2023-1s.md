@@ -21,11 +21,14 @@ Repaso de álgebra lineal y cálculo vectorial.
 - Regla de la cadena (univariada y multivariada).
 - Campo vectorial (definición y ejemplos sencillos).
 
-# Examen 2 (25%): miércoles 08 de marzo de 2023
+# Examen 2 (15%): miércoles 08 de marzo de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
 # Examen 3 (25%): miércoles 12 de abril de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
-# Examen 4 (25%): miércoles 31 de mayo de 2023
+# Examen 4 (25%): miércoles 10 de mayo de 2023
+Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
+
+# Examen 5 (25%): miércoles 31 de mayo de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
