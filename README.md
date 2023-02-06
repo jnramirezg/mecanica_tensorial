@@ -1,4 +1,4 @@
-# 4200687 Mecánica tensorial\
+# 4200687 Mecánica tensorial
 Departamento de Ingeniería Civil\
 Facultad de Ingeniería y Arquitectura\
 Universidad Nacional de Colombia
