@@ -113,7 +113,7 @@ Algunas recomendaciones basadas en Héctor Ruíz Martín. Recomiendo ver este v�
 ## **Python 3**
 Se recomienda revisar:
 - IDE: [Spyder](https://www.spyder-ide.org/)
-- Entorno informático: [Jupyter](https://jupyter.org/)
+- Entorno informático: [Jupyter](https://jupyter.org/) o [Google Colab](https://colab.research.google.com/)
 
 ## Conocimientos previos en python
 Una guía para aprender Python 3 está disponible en el repositorio del profesor Diego Andrés Álvarez Marín en este [enlace](https://github.com/diegoandresalvarez/programaciondecomputadores/blob/master/docs/python3/codigos_y_diapositivas.md).
