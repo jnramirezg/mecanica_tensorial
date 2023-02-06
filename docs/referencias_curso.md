@@ -28,7 +28,7 @@ Los siguientes libros:
 Los siguientes videos:
 * Canal en Youtube: [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
 * Vídeo tutorial en inglés: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* Vídeo tutorial en español:[La esencia del álgebra lineal](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
+* Vídeo tutorial en español: [La esencia del álgebra lineal](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
 
 
 # Video tutoriales de mecánica de medio continuo: elasticidad en YouTube:
