@@ -66,3 +66,17 @@ La asignatura tiene los objetivo de:
 <sub>(*) No está definido en el Acuerdo 300 de 2018 del CFIA</sub>
 
 
+
+## Asignaturas siguientes
+- [Mecánica de sólidos](https://github.com/jnramirezg/mecanica_de_solidos)
+- [Métodos numéricos aplicados a la ingeniería civil](https://github.com/jnramirezg/metodos_numericos_ingenieria_civil)
+- [Aplicaciones de elementos finitos 1](https://github.com/diegoandresalvarez/elementosfinitos)
+- [Aplicaciones de elementos finitos 2](https://github.com/diegoandresalvarez/elementosfinitos)
+- Análisis estructural avanzado
+- Estructuras metálicas
+- Diseño Estructural básico
+- Fundamentos de construcción
+- Diseñor estructural avanzado
+- Pavimentos
+- Optativa construcción de obras civiles
+
