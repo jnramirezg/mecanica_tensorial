@@ -13,3 +13,21 @@
 
 # [Referencias bibliográficas curso](/docs/referencias_curso.md)
 <sub>Literal (g) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
+
+# Asignatura
+*"Además de enseñar, enseña a dudar de lo que haz enseñado"* **José Ortega y Gasset**
+
+## General
+<sub>Literal (a), (f) y (h) del artículo 23 del Acuerdo 008 de 2008 del CSU	</sub>
+
+| **Nombre**   | Mecánica tensorial  |
+| ---          | ---                 |
+| **Código**   | 4200687             |
+| **Créditos** | 4                   |
+
+| Porcentaje mínimo de asistencia | **80%** |
+| ---                             | ---     |
+| ¿Asignatura validable?          | No      |
+
+- [Plan de estudios](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=92461)
+- [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
