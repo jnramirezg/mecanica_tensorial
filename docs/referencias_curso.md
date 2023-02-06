@@ -5,3 +5,6 @@
 <sub>En proceso de edición y publicación por la Universidad Nacional de Colombia</sub>
 
 Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. Será enviado a su correo para uso únicamente con fines de estudio. Debido a que se encuentra en publicación, se deben tener estas precauciones. Inmediatamente se publique, su uso será libre.
+
+* Lai, M., Krempl, E, Ruben, D. (2010) - Introduction to Continuum Mechanics. Elsevier
+
