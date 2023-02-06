@@ -123,5 +123,7 @@ Se recomienda estudiar autónomamente:
 - Estructuras de control
 - Librerías científicas: Numpy y SymPy.
 
+Documentación módulo Numpy de Python. Disponible [aquí](https://numpy.org/doc/stable/)
+
 Documentación módulo SymPy de Python. Disponible [aquí](https://docs.sympy.org/latest/index.html) 
 
