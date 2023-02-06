@@ -9,6 +9,6 @@
 
 <sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
 
-Lunes      16:00h – 18:00h (Aula C401) [Lu16-18 C401]
-Miércoles  16:00h – 18:00h (Aula C310) [Mi16-18 C310]
+- Lunes      16:00h – 18:00h (Aula C401) [Lu16-18 **C401**]
+- Miércoles  16:00h – 18:00h (Aula C310) [Mi16-18 **C310**]
 
