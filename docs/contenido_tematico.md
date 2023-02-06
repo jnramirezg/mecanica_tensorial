@@ -63,4 +63,24 @@
 - Determinación experimental de las características de los modelos.
 - Modelación unidimensional de: elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación.
 
+# Unidad 4: Análisis de grandes deformaciones
+- Descripciones de Lagrange y Euler. 
+- Derivada material. 
+- Tensor gradiente de deformación.
+- Tensores de Cauchy-Green, Cauchy-Lagrange, Euler-Almansi.
+- Descomposición polar. 
+- Tasa de deformación, tensor de giro, vector de velocidad angular.
+- Tensores de estiramiento y rotación. 
+- Tensor gradiente de velocidad.
+- Derivadas materiales de líneas, áreas y volúmenes.
+- Tensores de Piola-Kirchhoff.
 
+# Unidad 5: Ecs. de la mecánica del medio continuo
+- Movimiento, flujo y derivada material.
+- Velocidad, aceleración, líneas de traza, tasa de deformación y vorticidad.
+- Conservación de masa y ecuaciones de continuidad.
+- Derivadas materiales de volumen, área y líneas.
+- Tránsito distribuido de crecientes y clasificación de modelos distribuidos.
+- Conservación de la masa, continuidad, momentum, energía.
+- Primera y segunda ley de termodinámica.
+- Principio del trabajo virtual.
