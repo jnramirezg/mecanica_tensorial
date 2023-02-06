@@ -51,3 +51,18 @@ La asignatura tiene los objetivo de:
 | **Total**                  |      12       |   192 = 48*34  |
 
 
+## Prerequisitos: 
+- 4100605 - Estática
+- 1000006 – Cálculo vectorial
+
+## Conocimientos previos:
+- Cálculo Diferencial
+- Cálculo Integral
+- Álgebra Lineal
+- Física Mecánica
+- Programación de Computadores (*)
+
+
+<sub>(*) No está definido en el Acuerdo 300 de 2018 del CFIA</sub>
+
+
