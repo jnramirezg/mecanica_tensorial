@@ -3,7 +3,7 @@ Departamento de Ingeniería Civil\
 Facultad de Ingeniería y Arquitectura\
 Universidad Nacional de Colombia
 
-
+| ---                               | ---                                                                   |
 | ---                               | ---                                                                   |
 | Profesores                        | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co) |
 |                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
