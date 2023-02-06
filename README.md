@@ -4,9 +4,8 @@ Facultad de Ingeniería y Arquitectura\
 Universidad Nacional de Colombia
 
 
-
-| Profesores                        | Juan Nicolás Ramírez Giraldo, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
+| Profesores                        | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co) |
 |                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
 | Semestre en curso                 | 2023a, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 4                                                                     |
