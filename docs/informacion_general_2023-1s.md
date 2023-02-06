@@ -31,3 +31,23 @@
 
 - [Plan de estudios](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=92461)
 - [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
+
+
+# Objetivos
+La asignatura tiene los objetivo de:
+
+- Conocer los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a través de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. 
+- Conocer los elementos básicos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Aplicar los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
+
+## ¿Qué significa 1 crédito académico?
+
+“Un crédito es la unidad que mide el tiempo que el estudiante requiere para cumplir a cabalidad los objetivos de formación de cada asignatura y equivale a ***48 horas de trabajo del estudiante***. Éste incluirá las actividades presenciales que se desarrollan en las aulas con el profesor, las actividades con orientación docente realizadas fuera de las aulas y las actividades autónomas llevadas a cabo por el estudiante, además de prácticas, preparación de exámenes y todas aquellas que sean necesarias para alcanzar las metas de aprendizaje.” [art. 6](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34245#6) Acuerdo 033 de 2007 del CSU
+
+
+|                            | Horas/semana | Horas/semestre |
+| ---                        | ---          | ---            |
+| **Actividad presencial**   |      4       |       64       |
+| **Actividad autónoma**     |      8       |       128       |
+| **Total**                  |      12       |   192 = 48*34  |
+
+
