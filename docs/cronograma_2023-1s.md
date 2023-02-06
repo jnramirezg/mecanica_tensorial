@@ -1,3 +1,5 @@
+<sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
+
 # Calendario académico 2023-1s
 
 ## Mecánica tensorial Gr.1
@@ -29,7 +31,7 @@
 - Los exámenes serán individuales.
 - Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
 - En algunos casos será posible que la calificación sea superior a 5.0 con previa manifestación por parte del docente.
--Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
 - El docente previamente podrá autorizar durante el examen el uso de una hoja tamaño carta (blanca) por un solo lado elaborada a puño y letra con ecuaciones (no demostraciones), comandos de Python, pseudocódigo y palabras claves (no párrafos). 
 - No será posible el uso de ninguna herramienta digital, ni calculadora.
 
