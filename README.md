@@ -15,5 +15,5 @@ Universidad Nacional de Colombia
 - [Cronograma y evaluación 2023-1s](/docs/temas)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Código](/codigo)
-- [La wiki 2023-1s](/docs/wiki_2022-2s.md)
+- [La wiki 2023-1s](/docs/wiki_2023-1s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
