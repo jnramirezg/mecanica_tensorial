@@ -69,9 +69,19 @@ La asignatura tiene los objetivo de:
 
 ## Asignaturas siguientes
 - [Mecánica de sólidos](https://github.com/jnramirezg/mecanica_de_solidos)
+- Mecánica de fluidos
+- Mecánica de suelos
 - [Métodos numéricos aplicados a la ingeniería civil](https://github.com/jnramirezg/metodos_numericos_ingenieria_civil)
 - [Aplicaciones de elementos finitos 1](https://github.com/diegoandresalvarez/elementosfinitos)
 - [Aplicaciones de elementos finitos 2](https://github.com/diegoandresalvarez/elementosfinitos)
+- Cimentaciones
+- Geotecnia
+- Hidráulica
+- Hidrología
+- Acueductos y alcantarillados
+- Química ambiental
+- Saneamiento ambiental
+- Materiales para la construcción
 - Análisis estructural avanzado
 - Estructuras metálicas
 - Diseño Estructural básico
