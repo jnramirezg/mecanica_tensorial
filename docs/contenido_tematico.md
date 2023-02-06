@@ -39,3 +39,28 @@
 - Esfuerzos normales y tangenciales sobre un plano.
 - Esfuerzos y direcciones principales.
 - Círculo de Mohr en 2D y 3D.
+
+# Unidad 2: Análisis de deformaciones pequeñas
+- Desplazamientos.
+- Traslación y rotación rígida.
+- Deformaciones longitudinales y angulares.
+- Tensor de deformaciones infinitesimales.
+- Galgas extensométricas.
+- Especificación de la deformación en otras direcciones.
+- Rotación.
+- Deformaciones principales.
+- Círculo de Mohr en 2D y 3D.
+
+# Unidad 3: Relaciones entre esfuerzos y deformaciones
+- Materiales frágiles y materiales dúctiles.
+- Comportamiento elástico y plástico de los materiales dúctiles.
+- La ley de Hooke y los módulos de Young y Poisson.
+- Relación entre las direcciones principales asociadas a los esfuerzos y a las deformaciones para materiales isótropos u ortótropos.
+- Cambios de volumen y la dilatación cúbica.
+- Cambio de volumen de un sólido (teorema de la divergencia).
+- Módulo de expansión volumétrica o módulo de compresibilidad.
+- Modelos básicos de materiales: Hooke, Newton y Coulomb.
+- Determinación experimental de las características de los modelos.
+- Modelación unidimensional de: elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación.
+
+
