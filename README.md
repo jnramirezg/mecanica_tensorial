@@ -14,6 +14,5 @@ Universidad Nacional de Colombia
 - [Temas de los exámenes 2023-1s](/docs/temas_examenes_2023-1s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Código](/codigo)
-- [Taller 2023-2s](/docs/taller_2022-2s.md)
 - [La wiki 2023-1s](/docs/wiki_2022-2s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
