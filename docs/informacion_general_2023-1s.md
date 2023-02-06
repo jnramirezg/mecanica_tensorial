@@ -10,3 +10,6 @@
 - No se atenderán dudas a través de otros medios como _WhatsApp_.
 - Solo serán tenidos en cuenta los correos recibidos a través de _cuentas institucionales_ unal.edu.co.
 - Todo el material de clase estará disponible en este repositorio y en el repositorio https://github.com/diegoandresalvarez/solidos
+
+# [Referencias bibliográficas curso](/docs/referencias_curso.md)
+<sub>Literal (g) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
