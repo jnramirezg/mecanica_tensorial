@@ -12,3 +12,26 @@
 - Lunes      16:00h – 18:00h (Aula C401) [Lu16-18 **C401**]
 - Miércoles  16:00h – 18:00h (Aula C310) [Mi16-18 **C310**]
 
+
+## Cronograma y porcentajes
+
+| **Actividad evaluativa** | **%** | **Fecha**                       | **Encargado**|
+| ---                      | ---   | ---                             | ---          |
+| Evaluación parcial 1     | 10%   | miércoles 22 de febrero de 2023 | Juan Nicolás |
+| Evaluación parcial 2     | 15%   | miércoles 08 de marzo de 2023   | Juan Nicolás |
+| Evaluación parcial 3     | 20%   | miércoles 12 de abril de 2023   | Juan Nicolás |
+| Evaluación parcial 4     | 25%   | miércoles 10 de mayo de 2023    | Juan Nicolás |
+| Evaluación parcial 5     | 25%   | miércoles 31 de mayo de 2023    | Diego Andrés |
+
+# Sobre la evaluación:
+- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 5), incluido los temas de estudio autónomo.
+- La evaluación parcial 1 es sobre los temas de estudio autónomo de la unidad 0 (repaso).
+- Los exámenes serán individuales.
+- Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
+- En algunos casos será posible que la calificación sea superior a 5.0 con previa manifestación por parte del docente.
+-Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- El docente previamente podrá autorizar durante el examen el uso de una hoja tamaño carta (blanca) por un solo lado elaborada a puño y letra con ecuaciones (no demostraciones), comandos de Python, pseudocódigo y palabras claves (no párrafos). 
+- No será posible el uso de ninguna herramienta digital, ni calculadora.
+
+# Falta a una actividad evaluativa
+Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
