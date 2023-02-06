@@ -6,7 +6,7 @@ Universidad Nacional de Colombia
 | Asignatura | 4200687Mecánica tensorial                                                                                       |
 | ---        | ---                                                                                                             |
 | Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co)|
-| Profesor   | [Diego Andrés Álvarez](https://github.com/daalvarez/), [daalvarez@unal.edu.co](daalvarez@unal.edu.co)           |
+| Profesor   | [Diego Andrés Álvarez](https://github.com/diegoandresalvarez/), [daalvarez@unal.edu.co](daalvarez@unal.edu.co)           |
 | Créditos   | 4                                                                                                               |
 
 
