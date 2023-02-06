@@ -3,7 +3,15 @@ Departamento de Ingeniería Civil\
 Facultad de Ingeniería y Arquitectura\
 Universidad Nacional de Colombia
 
-_"Cum cogitaveris quot te antecedant, respice quot sequantur"_ Séneca
+
+
+| Profesores                        | Juan Nicolás Ramírez Giraldo, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
+| ---                               | ---                                                                   |
+|                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
+| Semestre en curso                 | 2023a, 16 semanas                                                     |
+| [Créditos](informacion/credito.md)| 4                                                                     |
+| Horario                           | lunes (4:00 p.m. - 6:00 p.m.) y miércoles (4:00 p.m. - 6:00 p.m.)       |
+
 
 - **Docente:** Juan Nicolás Ramírez Giraldo 
 - **Correo:** jnramirezg@unal.edu.co
