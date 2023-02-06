@@ -3,13 +3,12 @@ Departamento de Ingeniería Civil\
 Facultad de Ingeniería y Arquitectura\
 Universidad Nacional de Colombia
 
-| ---                               | ---                                                                   |
-| ---                               | ---                                                                   |
-| Profesores                        | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co) |
-|                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
-| Semestre en curso                 | 2023a, 16 semanas                                                     |
-| [Créditos](informacion/credito.md)| 4                                                                     |
-| Horario                           | lunes (4:00 p.m. - 6:00 p.m.) y miércoles (4:00 p.m. - 6:00 p.m.)       |
+| Asignatura | 4200687Mecánica tensorial                                                                                       |
+| ---        | ---                                                                                                             |
+| Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co)|
+| Profesor   | [Diego Andrés Álvarez](https://github.com/daalvarez/), [daalvarez@unal.edu.co](daalvarez@unal.edu.co)           |
+| Créditos   | 4                                                                                                               |
+
 
 
 - **Docente:** Juan Nicolás Ramírez Giraldo 
