@@ -14,7 +14,7 @@ Universidad Nacional de Colombia
 - [Temas de los exámenes 2023-1s](/docs/temas_examenes_2023-1s.md)
 - [Cronograma y evaluación 2023-1s](/docs/cronograma_2023-1s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
-- [Código](/docs/codigo)
+- [Código](/docs/codigo.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
 
 ## WIKI para la corrección de los errores en el `main.pdf`: 
