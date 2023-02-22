@@ -1,4 +1,4 @@
-# Examen 1 (10%): miércoles 22 de febrero de 2023 
+# Examen 1 (10%): lunes 27 de febrero de 2023 
 
 Repaso de álgebra lineal y cálculo vectorial.
 - Cosenos directores.
