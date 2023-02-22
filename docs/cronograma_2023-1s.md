@@ -19,7 +19,7 @@
 
 | **Actividad evaluativa** | **%** | **Fecha**                       | **Encargado**|
 | ---                      | ---   | ---                             | ---          |
-| Evaluación parcial 1     | 10%   | miércoles 22 de febrero de 2023 | Juan Nicolás |
+| [Evaluación parcial 1](https://github.com/jnramirezg/mecanica_tensorial/blob/main/docs/temas_examenes_2023-1s.md#examen-1-10-lunes-27-de-febrero-de-2023)     | 10%   | miércoles 22 de febrero de 2023 | Juan Nicolás |
 | Evaluación parcial 2     | 15%   | miércoles 08 de marzo de 2023   | Juan Nicolás |
 | Evaluación parcial 3     | 25%   | miércoles 12 de abril de 2023   | Juan Nicolás |
 | Evaluación parcial 4     | 25%   | miércoles 10 de mayo de 2023    | Juan Nicolás |
