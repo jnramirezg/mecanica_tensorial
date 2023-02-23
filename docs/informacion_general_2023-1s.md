@@ -26,7 +26,7 @@
 - [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
 
 
-# Objetivos
+## Objetivos
 La asignatura tiene los objetivos de:
 
 - Conocer los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a través de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. 
