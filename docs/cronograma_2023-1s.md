@@ -7,7 +7,7 @@
 | ---                       | ---                                                             |
 | **Semana santa:**         | lunes 03 de abril de 2023– sábado 08 de abril de 2023           |
 | **Fin:**                  | miércoles 31 de mayo de 2023                                    |
-| **Notas SIA:**            | hasta las 5PM del viernes 9 de junio de 2023                    |
+| **Notas SIA:**            | hasta las 5PM del viernes 09 de junio de 2023                    |
 
 <sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
 
@@ -19,8 +19,8 @@
 
 | **Actividad evaluativa** | **%** | **Fecha**                       | **Encargado**|
 | ---                      | ---   | ---                             | ---          |
-| [Evaluación parcial 1](https://github.com/jnramirezg/mecanica_tensorial/blob/main/docs/temas_examenes_2023-1s.md#examen-1-10-lunes-27-de-febrero-de-2023)     | 10%   | lunes 27 de febrero de 2023 | Juan Nicolás |
-| [Evaluación parcial 2](https://github.com/jnramirezg/mecanica_tensorial/blob/main/docs/temas_examenes_2023-1s.md#examen-2-15-mi%C3%A9rcoles-08-de-marzo-de-2023)     | 15%   | miércoles 08 de marzo de 2023   | Juan Nicolás |
+| [Evaluación parcial 1](/docs/temas_examenes_2023-1s.md#examen-1-10-lunes-27-de-febrero-de-2023)     | 10%   | lunes 27 de febrero de 2023 | Juan Nicolás |
+| [Evaluación parcial 2](/docs/temas_examenes_2023-1s.md#examen-2-15-mi%C3%A9rcoles-08-de-marzo-de-2023)     | 15%   | miércoles 08 de marzo de 2023   | Juan Nicolás |
 | Evaluación parcial 3     | 25%   | miércoles 12 de abril de 2023   | Juan Nicolás |
 | Evaluación parcial 4     | 25%   | miércoles 10 de mayo de 2023    | Juan Nicolás |
 | Evaluación parcial 5     | 25%   | miércoles 31 de mayo de 2023    | Diego Andrés |
