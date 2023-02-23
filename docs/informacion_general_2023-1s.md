@@ -27,7 +27,7 @@
 
 
 # Objetivos
-La asignatura tiene los objetivo de:
+La asignatura tiene los objetivos de:
 
 - Conocer los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a través de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. 
 - Conocer los elementos básicos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Aplicar los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
