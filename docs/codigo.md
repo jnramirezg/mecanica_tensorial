@@ -12,4 +12,4 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[01- cambio de base tridimensional](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/01-(2_6_1)-cambio_base_tri.ipynb)|
 |[02- cambio de base bidimensional](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/02-(2_6_2)-cambio_base_bi.ipynb)|
 |[03- problema de Flamant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/03-(2_6_2)-problema_flamant.ipynb)|
-
+|[04- esfuerzos normales y tangenciales al plano](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/04-(2_7)-tan_nor_plano.ipynb)|
