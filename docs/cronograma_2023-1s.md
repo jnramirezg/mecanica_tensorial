@@ -26,12 +26,14 @@
 | Evaluación parcial 5     | 25%   | miércoles 31 de mayo de 2023    | Diego Andrés |
 
 # Sobre la evaluación:
-- Serán sujetos de evaluación todos los temas vistos hasta la clase antes del examen, incluido los temas de estudio autónomo.
-- No será posible el uso de ninguna herramienta digital diferente a la calculadora (no graficadora).
+- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 5), incluido los temas de estudio autónomo.
+- La evaluación parcial 1 es sobre los temas de estudio autónomo de la unidad 0 (repaso).
 - Los exámenes serán individuales.
-- Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o ejercicios de aplicación. Constarán de mínimo 3 preguntas.
-- En algunos casos será posible que la calificación de una actividad sea superior a 5.0 con previa manifestación por parte del docente.
+- Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
+- En algunos casos será posible que la calificación sea superior a 5.0 con previa manifestación por parte del docente.
 - Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- El docente previamente podrá autorizar durante el examen el uso de una hoja tamaño carta (blanca) por un solo lado elaborada a puño y letra con ecuaciones (no demostraciones), comandos de Python, pseudocódigo y palabras claves (no párrafos). 
+- No será posible el uso de ninguna herramienta digital, ni calculadora.
 
 
 # Falta a una actividad evaluativa
