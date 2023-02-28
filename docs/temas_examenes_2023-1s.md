@@ -1,4 +1,4 @@
-# Examen 1 (10%): lunes 27 de febrero de 2023 [(Solución)](/docs/SOL-examen_1-2023-2s.pdf)
+# Examen 1 (10%): lunes 27 de febrero de 2023 [(Solución)](/docs/SOL-examen_1-2023-1s.pdf)
 
 Repaso de álgebra lineal y cálculo vectorial.
 - Cosenos directores.
