@@ -24,6 +24,10 @@ Repaso de álgebra lineal y cálculo vectorial.
 # Examen 2 (15%): miércoles 08 de marzo de 2023 [(Solución)](/docs/SOL-examen_2-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
+- Del capítulo 1 del ```main.pdf```, las secciones 1.1, 1.2, 1.3 y 1.4.
+- Del capítulo 2 del ```main.pdf```, las secciones 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8 (sin incluir 2.8.3).
+- Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
+
 # Examen 3 (25%): miércoles 12 de abril de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
