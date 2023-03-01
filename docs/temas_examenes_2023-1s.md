@@ -27,6 +27,7 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 - Del capítulo 1 del ```main.pdf```, las secciones 1.1, 1.2, 1.3 y 1.4.
 - Del capítulo 2 del ```main.pdf```, las secciones 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7 y 2.8 (sin incluir 2.8.3).
 - Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
+- Todos los comandos de los programas: [01](/medio_continuo/blob/main/codigo/01-(2_6_1)-cambio_base_tri.ipynb)
 
 # Examen 3 (25%): miércoles 12 de abril de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
