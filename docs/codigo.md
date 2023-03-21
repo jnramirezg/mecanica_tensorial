@@ -18,3 +18,14 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[07- deducción de esfuerzos y direcciones principales en 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/07-(2_8_2)-tens_dir_princ_3d.ipynb)|
 |[08- ejemplo de esfuerzos y direcciones principales en 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/08-(2_8_2)-ejemplo_1.ipynb)|
 |[09- verificación ortogonalidad direcciones principales](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/09-(2_8_4)_ortogonalidad_dir_pples.ipynb)|
+|[10- ejemplo de círculo de Mohr 2D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/10-(2_9_4)-ejemplo_circulo_mohr_2d.ipynb)|
+|[11- círculo de Mohr interactivo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/11-circulo_mohr_2d_interactivo.ipynb)|
+|[12- círculo de Mohr 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/12-(2_9_7)-circulo_mohr_3d.ipynb)|
+
+Adicionalmente: 
+- [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
+
+Otras herramientas para estudiar el círculo de Mohr:
+- Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
+- <https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb>
+- <https://github.com/ProfessorKazarinoff/mohrs_circle>
