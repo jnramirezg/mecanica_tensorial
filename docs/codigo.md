@@ -36,4 +36,15 @@ Otras herramientas para estudiar el círculo de Mohr:
 |---                                                                                  |       
 |[14- deducción de deformaciones en otras direcciones 2D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/14-(3_4)-def_otras_dir(1).ipynb)|
 |[15- particularización a 2D de defromaciones en otras direcciones](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/15-(3_4)-def_otras_dir(2).ipynb)|
+|[16- ejemplo de cambio de base](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/16-(3_4_2)-ejemplo_cambio_base.ipynb)|
+|[17- ejemplo más de tres galgas](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/17-(3_4_3)_ejemplo_varias_galgas.ipynb)|
 
+
+## 04. Relaciones entre los esfuerzos y las deformaciones
+| Códigos                                                                             | 
+|---                                                                                  |
+|[18- módulo de cortante G](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/18-(4_3_2)-modulo_cortante.ipynb)|
+|[19- ley de Hooke generalizada en materiales isótropos (versión 1)](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/19-(4_3_3)-ley_hooke_isotropos.ipynb)|
+|[20- ley de Hooke generalizada en materiales isótropos (versión 2)](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/20-(4_3_3)-alter-ley_hooke_isotropos.ipynb)|
+|[21- ley de Hooke generalizada en materiales ortótropos](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/21-(4_3_5)-ley_hooke_ortotropos.ipynb)|
+|[22- particularización de ortótropos a isotrópos](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/22-de_ortotropos_a_isotropos.ipynb)|
