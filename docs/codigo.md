@@ -35,4 +35,5 @@ Otras herramientas para estudiar el círculo de Mohr:
 | Códigos                                                                             | 
 |---                                                                                  |       
 |[14- deducción de deformaciones en otras direcciones 2D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/14-(3_4)-def_otras_dir(1).ipynb)|
+|[15- particularización a 2D de defromaciones en otras direcciones](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/15-(3_4)-def_otras_dir(2).ipynb)|
 
