@@ -36,7 +36,9 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 
 # Examen 3 (25%): miércoles 12 de abril de 2023 [(Solución)](/docs/SOL-examen_3-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
-
+- Del capítulo 2 del ```main.pdf```, las secciones 2.9 y 2.10.
+- Del capítulo 3 del ```main.pdf```, todas las secciones.
+- Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
