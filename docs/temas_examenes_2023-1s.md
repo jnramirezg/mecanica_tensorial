@@ -39,6 +39,12 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 - Del capítulo 2 del ```main.pdf```, las secciones 2.9 y 2.10.
 - Del capítulo 3 del ```main.pdf```, todas las secciones.
 - Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
+- Todos los comandos de los programas: [10](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/10-(2_9_4)-ejemplo_circulo_mohr_2d.ipynb), [12](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/12-(2_9_7)-circulo_mohr_3d.ipynb), [15](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/15-(3_4)-def_otras_dir(2).ipynb), [16](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/16-(3_4_2)-ejemplo_cambio_base.ipynb) y [17](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/17-(3_4_3)_ejemplo_varias_galgas.ipynb). 
+
+**Nota 1:** NO se evaluarán los comandos y programas en otros lenguajes de programación (MAXIMA y matlab) que están en el libro.
+
+**Nota 2:** Esta plantilla de geogebra ([círculo de Mohr interactivo](https://www.geogebra.org/m/a8nv6zud)) ayuda a entender el círculo de Mohr en 2D.
+
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
