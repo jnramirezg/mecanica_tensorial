@@ -23,7 +23,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[12- círculo de Mohr 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/12-(2_9_7)-circulo_mohr_3d.ipynb)|
 
 Adicionalmente: 
-- [circulo_mohr_2d.py](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/jnramirezg/mecanica_de_solidos_un/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
+- [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°).
 
 Otras herramientas para estudiar el círculo de Mohr:
 - Plantilla de Geogebra de los videos: <https://www.geogebra.org/m/a8nv6zud>
