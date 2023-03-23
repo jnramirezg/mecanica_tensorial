@@ -34,9 +34,6 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 
 **Nota 2:** El programa [06](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/06-esf_dir_pples_interactivo.ipynb) es una herramienta últil para ver el significado de los esfuerzos principales y las direcciones principales.
 
-**Nota 3:** [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
-
-
 # Examen 3 (25%): miércoles 12 de abril de 2023 [(Solución)](/docs/SOL-examen_3-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 - Del capítulo 2 del ```main.pdf```, las secciones 2.9 y 2.10.
@@ -47,6 +44,10 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 **Nota 1:** NO se evaluarán los comandos y programas en otros lenguajes de programación (MAXIMA y matlab) que están en el libro.
 
 **Nota 2:** Esta plantilla de geogebra ([círculo de Mohr interactivo](https://www.geogebra.org/m/a8nv6zud)) ayuda a entender el círculo de Mohr en 2D, alternativamente, el programa [11](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/11-circulo_mohr_2d_interactivo.ipynb).
+
+**Nota 3:** [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°).
+
+**Nota 4:** [
 
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
