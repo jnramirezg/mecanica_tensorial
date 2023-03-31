@@ -21,6 +21,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[10- ejemplo de círculo de Mohr 2D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/10-(2_9_4)-ejemplo_circulo_mohr_2d.ipynb)|
 |[11- círculo de Mohr 2D interactivo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/11-circulo_mohr_2d_interactivo.ipynb)|
 |[12- círculo de Mohr 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/12-(2_9_7)-circulo_mohr_3d.ipynb)|
+|[13- círuclo de Mohr 3D interactivo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/13-circulo_mohr_3d_interactivo.ipynb)|
 
 Adicionalmente: 
 - [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°).
