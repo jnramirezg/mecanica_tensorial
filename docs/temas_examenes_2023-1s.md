@@ -43,11 +43,11 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 
 **Nota 1:** NO se evaluarán los comandos y programas en otros lenguajes de programación (MAXIMA y matlab) que están en el libro.
 
-**Nota 2:** Esta plantilla de geogebra ([círculo de Mohr interactivo](https://www.geogebra.org/m/a8nv6zud)) ayuda a entender el círculo de Mohr en 2D, alternativamente, el programa [11](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/11-circulo_mohr_2d_interactivo.ipynb).
+**Nota 2:** Esta plantilla de geogebra ([círculo de Mohr interactivo](https://www.geogebra.org/m/a8nv6zud)) ayuda a entender el círculo de Mohr en 2D, alternativamente, el programa [11-círculo de Mohr 2D interactivo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/11-circulo_mohr_2d_interactivo.ipynb).
 
 **Nota 3:** [circulo_mohr_2d.py](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/circulo_mohr_2d.py) ([ver gráfico](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_02/mygif.gif)) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°).
 
-**Nota 4:** En este enalce se podrá ver de forma [interactiva el círculo de Mohr en 3D](https://github.com/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb).
+**Nota 4:** En este programa podrá ver de forma [interactiva el círculo de Mohr en 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/13-circulo_mohr_3d_interactivo.ipynb).
 
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
