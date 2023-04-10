@@ -49,6 +49,9 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 
 **Nota 4:** En este programa podrá ver de forma [interactiva el círculo de Mohr en 3D](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/13-circulo_mohr_3d_interactivo.ipynb).
 
+**Nota 5:** Es importante revisar en el interactivo de círculo de Mohr 2D qué ocurre cuando:
+- $\sigma_x > \sigma_y$ y $tau_{xy}=0$
+
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
