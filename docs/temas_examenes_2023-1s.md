@@ -57,8 +57,11 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 - $\sigma_x = \sigma_y=0$ y $\tau_{xy}\neq 0$
 
 **Nota 6:** Es importante revisar en el interactivo de círculo de Mohr 3D qué ocurre en estos casos (interactuar en simultanéa con las ecuaciones disponibles).
-- $\sigma_x=\sigma_y=\sigma_z$ y $\tau_{yz}=\tau{xz}=\tau{yz}=0$
-- Dos esfuerzos axiales iguales y $\tau_{yz}=\tau{xz}=\tau{yz}=0$
+- $\sigma_x=\sigma_y=\sigma_z$ y $\tau_{yz}=\tau_{xz}=\tau_{yz}=0$
+- Dos esfuerzos axiales iguales y $\tau_{yz}=\tau_{xz}=\tau_{yz}=0$
+- $\tau_{yz}=\tau_{xz}=\tau_{yz}$
+- Todos los esfuerzos son cero, menos un cortante.
+- $\sigma_z=\tau_{xz}=\tau_{yz}=0$ ¿Qué similitudes tiene con el caso 2D?
 
 
 # Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
