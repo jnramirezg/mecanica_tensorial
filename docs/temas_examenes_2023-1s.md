@@ -70,7 +70,7 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 
 - Del capítulo 3 del ```main.pdf```, la sección 3.5.
 - Del capítulo 4 del ```main.pdf```, las secciones 4.1, 4.2, 4.3, 4.4, 4.5, 4.6 y 4.7.
-- - Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
+- Los ejercicios propuestos y las preguntas de control de lectura relacionados con las secciones del libro mencionadas en los dos puntos anteriores.
 - Todos los comandos de los programas: [18](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/18-(4_3_2)-modulo_cortante.ipynb), [19](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/19-(4_3_3)-ley_hooke_isotropos.ipynb), [20](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/20-(4_3_3)-alter-ley_hooke_isotropos.ipynb), [21](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/21-(4_3_5)-ley_hooke_ortotropos.ipynb) y [22](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/22-de_ortotropos_a_isotropos.ipynb).
 
 # Examen 5 (25%): miércoles 31 de mayo de 2023 
