@@ -65,7 +65,7 @@ Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la
 - $\sigma_z=\tau_{xz}=\tau_{yz}=0$ ¿Qué similitudes tiene con el caso 2D?
 
 
-# Examen 4 (25%): miércoles 10 de mayo de 2023 [(Solución)](/docs/SOL-examen_4-2023-1s.pdf)
+# Examen 4 (25%): miércoles 10 de mayo de 2023 
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
 
 - Del capítulo 3 del ```main.pdf```, la sección 3.5.
