@@ -1,15 +1,13 @@
 ### Exámenes:
 * **Examen 1:** 25%
   * Parte 1 (50%):
-    * Fecha (semana 3):
-      * Jueves Abril 24, 2025
+    * Fecha (semana 3): Miércoles Abril 23 de 2025
     * Tema: Se harán dos preguntas:
       * Una de álgebra lineal.
       * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluída).
 
   * Parte 2 (50%):
-    * Fecha (semana 6):
-      * Jueves Mayo 15, 2025
+    * Fecha (semana 6): Miércoles Mayo 14 de 2025
     * Tema: Se harán dos preguntas: 
       * Una de cálculo vectorial.
       * Otra del tema del Capítulo 2 visto hasta la clase anterior al examen (incluso lo que no se explicó en clase). La pregunta saldrá al azar con las siguientes probabilidades:
@@ -18,13 +16,11 @@
         * 30%: Temas a partir de la sección 2.5 + apéndice matemático + códigos de programación asociados (MATLAB/MAXIMA/PYTHON).
 
 * **Examen 2:** 25%
-    * Fecha (semana 8):
-      * Jueves Mayo 29, 2025.
+    * Fecha (semana 8): Miércoles Mayo 28 de 2025.
     * Tema: Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
 
 * **Examen 3:** 25%
-    * Fecha (semana 12):
-      * Jueves Junio 26, 2025
+    * Fecha (semana 12): Miércoles Junio 25 de 2025
     * Tema: 
       * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. 
       * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
@@ -33,8 +29,7 @@
       * Regla de la cadena
 
 * **Examen 4:** 25%
-    * Fecha (semana 16):
-      * Jueves Julio 24, 2025    
+    * Fecha (semana 16): Miércoles Julio 23 de 2025    
     * Tema: 
       * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 <!---
