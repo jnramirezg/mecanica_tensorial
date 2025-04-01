@@ -1,4 +1,4 @@
-| Asignatura | 4200687 mecánica tensorial                                                             |
+| Asignatura | 4201080 mecánica tensorial                                                             |
 | ---        | ---                                                                                    |
 | Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), jnramirezg@unal.edu.co |
 | Créditos   | 4                                                                                      |
