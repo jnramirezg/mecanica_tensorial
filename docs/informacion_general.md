@@ -131,7 +131,6 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
     * Fecha (semana 16): Miércoles Julio 23 de 2025    
     * Tema: 
       * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
-<!---
       * Del `main_tensorial.pdf`: secciones 3.11 y 3.21.
       * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
       * Matrix jacobiana y jacobiano.
