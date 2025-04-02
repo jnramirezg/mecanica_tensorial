@@ -92,10 +92,40 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Principio del trabajo virtual.
 
 
-# Calendario
+# Cronograma y evaluación
+## Mecánica tensorial Gr.1
+| **Inicio:**               | lunes 06 de febrero de 2023                                     |
+| ---                       | ---                                                             |
+| **Semana santa:**         | lunes 03 de abril de 2023– sábado 08 de abril de 2023           |
+| **Fin:**                  | miércoles 31 de mayo de 2023                                    |
+| **Notas SIA:**            | hasta las 5PM del viernes 09 de junio de 2023                    |
+
+<sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
+
+- Lunes      14:00h – 16:00h (Aula C401) [Lu14-16 **C310**]
+- Miércoles  14:00h – 16:00h (Aula C310) [Mi14-16 **C310**]
 
 
-# Tema de los exámenes 2025-1s
+## Cronograma y porcentajes
+
+| **Actividad evaluativa** | **%** | **Fecha**                       |
+| ---                      | ---   | ---                             | 
+| Evaluación parcial 1 - parte 1 | 12.5% | miércoles 23 de abril de 2025|
+| Evaluación parcial 1 - parte 2 | 12.5% | miércoles 14 de mayo de 2025|
+| Evaluación parcial 2     | 25%   | miércoles 28 de mayo de 2025   |
+| Evaluación parcial 3     | 25%   | miércoles 25 de junio de 2025    |
+| Evaluación parcial 4     | 25%   | miércoles 23 de julio de 2025    |
+
+## Sobre la evaluación:
+- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el último), incluido los temas de estudio autónomo.
+- Los exámenes serán individuales.
+- Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- No será posible el uso de ninguna herramienta digital, ni calculadora.
+
+## Falta a una actividad evaluativa
+Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
+
+## Tema de los exámenes 2025-1s
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
 * **Examen 1:** 25%
