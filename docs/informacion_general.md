@@ -93,7 +93,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 
 # Cronograma y evaluación
-## Mecánica tensorial Gr.1
+## Mecánica tensorial Gr.2
 | **Inicio:**               | lunes 31 de marzo de 2025                                     |
 | ---                       | ---                                                             |
 | **Semana santa:**         | lunes 14 de abril de 2025– domingo 20 de abril de 2025           |
