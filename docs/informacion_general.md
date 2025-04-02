@@ -94,15 +94,15 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 # Cronograma y evaluación
 ## Mecánica tensorial Gr.1
-| **Inicio:**               | lunes 06 de febrero de 2023                                     |
+| **Inicio:**               | lunes 31 de marzo de 2025                                     |
 | ---                       | ---                                                             |
-| **Semana santa:**         | lunes 03 de abril de 2023– sábado 08 de abril de 2023           |
-| **Fin:**                  | miércoles 31 de mayo de 2023                                    |
-| **Notas SIA:**            | hasta las 5PM del viernes 09 de junio de 2023                    |
+| **Semana santa:**         | lunes 14 de abril de 2025– domingo 20 de abril de 2025           |
+| **Fin:**                  | miércoles 23 de julio de 2025                                   |
+| **Notas SIA:**            | hasta las 5PM del viernes 29 de julio de 2025                    |
 
-<sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
+<sub>[Res. 1536 de 2024 de Rectoría](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=110213#1)</sub>
 
-- Lunes      14:00h – 16:00h (Aula C401) [Lu14-16 **C310**]
+- Lunes      14:00h – 16:00h (Aula C310) [Lu14-16 **C310**]
 - Miércoles  14:00h – 16:00h (Aula C310) [Mi14-16 **C310**]
 
 
