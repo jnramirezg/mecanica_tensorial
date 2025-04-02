@@ -92,10 +92,10 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Principio del trabajo virtual.
 
 
-# [Cronograma y evaluación](/docs/cronograma_2025-1s.md)
+# Calendario
 
 
-# [Tema de los exámenes 2025-1s](/docs/temas_examenes_2025-1s.md)
+# Tema de los exámenes 2025-1s
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
 * **Examen 1:** 25%
