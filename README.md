@@ -9,6 +9,6 @@ Universidad Nacional de Colombia
 
 
 ## Contenido
-- [Información general 2025-1s](/docs/informacion_general_2023-1s.md)
+- [Información general 2025-1s](/docs/informacion_general.md)
 - [Código](/docs/codigo.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
