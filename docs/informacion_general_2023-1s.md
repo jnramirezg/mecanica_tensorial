@@ -18,22 +18,20 @@
 
 | **Nombre**   | Mecánica tensorial  |
 | ---          | ---                 |
-| **Código**   | 4200687             |
+| **Código**   | 4201080             |
 | **Créditos** | 4                   |
 
 | Porcentaje mínimo de asistencia | **80%** |
 | ---                             | ---     |
 | ¿Asignatura validable?          | No      |
 
-- [Plan de estudios](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=92461)
-- [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
+## Descripción de la asignatura
+En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
 
-
-## Objetivos
-La asignatura tiene los objetivos de:
-
-- Conocer los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a través de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. 
-- Conocer los elementos básicos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Aplicar los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
+Se espera que al final del curso, el estudiante esté en capacidad de:
+* Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico, para pequeñas y grandes deformaciones.
+* Entender las diferentes suposiciones y limitaciones presentes en la teoría.
+* Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en mecánica de sólidos, de suelos, de fluidos y pavimentos.
 
 ## ¿Qué significa 1 crédito académico?
 
