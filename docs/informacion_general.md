@@ -105,6 +105,10 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 - Lunes      14:00h – 16:00h (Aula C310) [Lu14-16 **C310**]
 - Miércoles  14:00h – 16:00h (Aula C310) [Mi14-16 **C310**]
 
+### Festivos
+* Lunes 2 de junio: Día de la Ascensión
+* Lunes 23 de junio: Corpus Christi
+* Lunes 30 de junio: Día de San Pedro y San Pablo
 
 ## Cronograma y porcentajes
 
