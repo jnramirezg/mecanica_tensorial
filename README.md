@@ -10,5 +10,5 @@ Universidad Nacional de Colombia
 
 ## Contenido
 - [Información general 2025-1s](/docs/informacion_general.md)
-- [Código](/docs/codigo.md)
+- [Código capítulo 2](https://github.com/diegoandresalvarez/solidos/tree/master/codigo/02_esfuerzos)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
