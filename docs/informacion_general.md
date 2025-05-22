@@ -145,7 +145,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
       * 30%: Temas a partir de la sección 2.5 + apéndice matemático + códigos de programación asociados (MATLAB/MAXIMA/PYTHON).
 
 * **Examen 2:** 25% (semana 8): Miércoles Mayo 28 de 2025
-  * Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
+  * Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON del capítulo 3 asociados al libro.
 
 * **Examen 3:** 25% (semana 12): Miércoles Junio 25 de 2025
   * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. 
