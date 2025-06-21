@@ -147,14 +147,11 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 * **Examen 2:** 25% (semana 8): Miércoles Mayo 28 de 2025
   * Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON del capítulo 3 asociados al libro.
 
-* **Examen 3:** 25% (semana 12): Miércoles Junio 25 de 2025
+* **Examen 3:** 25% (semana 12): Miércoles Julio 02 de 2025
   * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. 
-  * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
-  * Matrix Jacobiana y determinante de la matriz Jacobiana.
-  * Transformación lineal.
-  * Regla de la cadena
 
-* **Examen 4:** 25% (semana 16): Miércoles Julio 23 de 2025  
+* **Examen 4:** 25% (semana 16): Miércoles Julio 23 de 2025
+  * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase. 
   * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
   * Del `main_tensorial.pdf`: secciones 3.11 y 3.21.
   * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
