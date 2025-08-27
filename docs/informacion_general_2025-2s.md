@@ -107,7 +107,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 <sub>[Res. 1536 de 2024 de Rectoría](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=110213#1)</sub>
 ## Mecánica tensorial Gr.1
-- Lunes      10:00h – 12:00h (Aula C308) [Lu10-11 **C308**]
+- Lunes      10:00h – 12:00h (Aula C308) [Lu10-12 **C308**]
 - Jueves     10:00h – 12:00h (Aula C308) [Ju10-12 **C308**]
 ## Mecánica tensorial Gr.2
 - Lunes      14:00h – 16:00h (Aula C310) [Lu14-16 **C310**]
