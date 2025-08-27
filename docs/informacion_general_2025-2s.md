@@ -116,13 +116,13 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 ## Cronograma y porcentajes
 
-| **Actividad evaluativa** | **%** | **Fecha**                       |
-| ---                      | ---   | ---                             | 
-| Evaluación parcial 1 - parte 1 | 12.5% | Jueves 11 de septiembre de 2025/Miércoles 10 de septiembre de 2025|
-| Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025|
-| Evaluación parcial 2     | 25%   | Jueves 16 de octubre de 2025/Miércoles 15 de octubre de 2025   |
-| Evaluación parcial 3     | 25%   | Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.    |
-| Evaluación parcial 4     | 25%   | Jueves 11 de diciembre de 2025/Miércoles 10 de diciembre de 2025    |
+| **Actividad evaluativa** | **%** | **Fecha Gr1**                       |**Fecha Gr1**  |
+| ---                      | ---   | ---                             | ---|
+| Evaluación parcial 1 - parte 1 | 12.5% | Jueves 11 de septiembre de 2025|Miércoles 10 de septiembre de 2025|
+| Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025|Miércoles 01 de octubre de 2025|
+| Evaluación parcial 2     | 25%   | Jueves 16 de octubre de 2025|Miércoles 15 de octubre de 2025   |
+| Evaluación parcial 3     | 25%   | Jueves 13 de noviembre de 2025|Miércoles 12 de noviembre de 2025.    |
+| Evaluación parcial 4     | 25%   | Jueves 11 de diciembre de 2025|Miércoles 10 de diciembre de 2025    |
 
 ## Sobre la evaluación:
 - Serán evaluados los temas vistos hasta la semana antes del examen (excepto el último), incluido los temas de estudio autónomo.
