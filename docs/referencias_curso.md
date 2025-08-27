@@ -2,18 +2,14 @@
 
 # Textos principales
 
-* Álvarez Marín, D. A. (2022). *Teoría de la elasticidad usando Matlab y Maxima*. Tomo I: Fundamentos (1ra ed.). Manizales: Universidad Nacional de Colombia
+* Álvarez Marín, D. A. (2022). *Teoría de la elasticidad usando Matlab y Maxima*. Tomo I: Fundamentos (1ra ed.). Manizales: Universidad Nacional de Colombia (VERSIÓN: main_solidos_ago_25.pdf)
 
-<sub>En proceso de edición y publicación por la Universidad Nacional de Colombia</sub>
-
-Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. Será enviado a su correo para uso únicamente con fines de estudio. Debido a que se encuentra en publicación, se deben tener estas precauciones. Inmediatamente se publique, su uso será libre.
-
-* Lai, M., Krempl, E, Ruben, D. (2010) - Introduction to Continuum Mechanics. Elsevier >>> Disponible en la base de datos ScienceDirect a la cual tenemos acceso a través de http://bases.unal.edu.co/subjects/databases.php
+Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. Será enviado a su correo para uso únicamente con fines de estudio. Debido a que se encuentra en publicación de nuevas ediciones, se deben tener estas precauciones. 
 
 
 # Otros textos
 
-* Álvarez, Diego A. (2023). *Notes for a course on continiuum mechanics*. En preparación.
+* Álvarez, Diego A. (2023). *Notes for a course on continiuum mechanics*. En preparación. (VERSIÓN: main_tensorial_jul_29_2025.pdf)
 * Oliver, X., Agelet, C. (2002). *Mecánica de Medios Continuos para Ingenieros*.
 * Bonet, J., Gil, A.J., Woods, R (2016). *Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
 * Mase, G., Smelser, R.E., Mase, G.E. (2009). *Continuum Mechanics for Engineers*.
