@@ -118,11 +118,11 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 | **Actividad evaluativa** | **%** | **Fecha**                       |
 | ---                      | ---   | ---                             | 
-| Evaluación parcial 1 - parte 1 | 12.5% | miércoles 23 de abril de 2025|
-| Evaluación parcial 1 - parte 2 | 12.5% | miércoles 14 de mayo de 2025|
-| Evaluación parcial 2     | 25%   | miércoles 28 de mayo de 2025   |
-| Evaluación parcial 3     | 25%   | miércoles 25 de junio de 2025    |
-| Evaluación parcial 4     | 25%   | miércoles 23 de julio de 2025    |
+| Evaluación parcial 1 - parte 1 | 12.5% | Jueves 11 de septiembre de 2025/Miércoles 10 de septiembre de 2025|
+| Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025|
+| Evaluación parcial 2     | 25%   | Jueves 16 de octubre de 2025/Miércoles 15 de octubre de 2025   |
+| Evaluación parcial 3     | 25%   | Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.    |
+| Evaluación parcial 4     | 25%   | Jueves 11 de diciembre de 2025/Miércoles 10 de diciembre de 2025    |
 
 ## Sobre la evaluación:
 - Serán evaluados los temas vistos hasta la semana antes del examen (excepto el último), incluido los temas de estudio autónomo.
@@ -139,7 +139,6 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 * **Examen 1:** 25%
   * Parte 1 (50%) (semana 3): Jueves 11 de septiembre de 2025/Miércoles 10 de septiembre de 2025:
     * Repaso de álgebra lineal 
-    * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluída).
 
   * Parte 2 (50%) (semana 6): Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025.
     Se harán dos preguntas: 
@@ -152,7 +151,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 * **Examen 3:** 25% (semana 12): Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.
 
 
-* **Examen 4:** 25% (semana 16): Jueves 11 de diciembre de 2025/Miércoles 10 de diciembree de 2025.
+* **Examen 4:** 25% (semana 16): Jueves 11 de diciembre de 2025/Miércoles 10 de diciembre de 2025.
 
 
 # Comunicación con el docente y solución de dudas
