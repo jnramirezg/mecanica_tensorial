@@ -107,9 +107,10 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 - Miércoles  14:00h – 16:00h (Aula C310) [Mi14-16 **C310**]
 
 ### Festivos
-* Lunes 2 de junio: Día de la Ascensión
-* Lunes 23 de junio: Corpus Christi
-* Lunes 30 de junio: Día de San Pedro y San Pablo
+* Lunes 13 de octubre: Día de la Raza
+* Lunes 3 de noviembre: Día de todos los Santos
+* Lunes 17 de noviembre: Día de la Independencia de Cartagena
+* Lunes 8 de diciembre: Día de la Inmaculada Concepción
 
 ## Cronograma y porcentajes
 
@@ -130,7 +131,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 ## Falta a una actividad evaluativa
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
 
-## Tema de los exámenes 2025-1s
+## Tema de los exámenes 2025-2s
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
 * **Examen 1:** 25%
