@@ -141,18 +141,18 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
     * Repaso de álgebra lineal 
     * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluída).
 
-  * Parte 2 (50%) (semana 6): Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025:
+  * Parte 2 (50%) (semana 6): Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025.
     Se harán dos preguntas: 
     * Repaso de cálculo vectorial.
     * Del main de sólidos desde el comienzo hasta la sección 2.5. (incluida)
 
-* **Examen 2:** 25% (semana 8): Miércoles Mayo 28 de 2025
+* **Examen 2:** 25% (semana 8): Jueves 16 de octubre de 2025/Miércoles 15 de octubre de 2025.
 
 
-* **Examen 3:** 25% (semana 12): Miércoles Julio 02 de 2025
+* **Examen 3:** 25% (semana 12): Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.
 
 
-* **Examen 4:** 25% (semana 16): Miércoles Julio 23 de 2025
+* **Examen 4:** 25% (semana 16): Jueves 11 de diciembre de 2025/Miércoles 10 de diciembree de 2025.
 
 
 # Comunicación con el docente y solución de dudas
