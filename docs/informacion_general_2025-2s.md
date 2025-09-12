@@ -118,7 +118,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 | **Actividad evaluativa** | **%** | **Fecha Gr1**                       |**Fecha Gr2**  |
 | ---                      | ---   | ---                             | ---|
-| Evaluación parcial 1 - parte 1 | 12.5% | Jueves 11 de septiembre de 2025|Miércoles 10 de septiembre de 2025|
+| Evaluación parcial 1 - parte 1 | 12.5% | Jueves 18 de septiembre de 2025|Miércoles 17 de septiembre de 2025|
 | Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025|Miércoles 01 de octubre de 2025|
 | Evaluación parcial 2     | 25%   | Jueves 16 de octubre de 2025|Miércoles 15 de octubre de 2025   |
 | Evaluación parcial 3     | 25%   | Jueves 13 de noviembre de 2025|Miércoles 12 de noviembre de 2025    |
@@ -137,7 +137,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (50%) (semana 3): Jueves 11 de septiembre de 2025/Miércoles 10 de septiembre de 2025:
+  * Parte 1 (50%) (semana 3): Jueves 18 de septiembre de 2025/Miércoles 17 de septiembre de 2025:
     * Repaso de álgebra lineal 
 
   * Parte 2 (50%) (semana 6): Jueves 02 de octubre de 2025/Miércoles 01 de octubre de 2025.
