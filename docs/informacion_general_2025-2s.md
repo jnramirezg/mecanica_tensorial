@@ -116,7 +116,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 ## Cronograma y porcentajes
 
-| **Actividad evaluativa** | **%** | **Fecha Gr1**                       |**Fecha Gr2**  |
+| **Actividad evaluativa** | **%** | **Fecha gr1**                       |**Fecha gr2**  |
 | ---                      | ---   | ---                             | ---|
 | Evaluación parcial 1 - parte 1 | 12.5% | Jueves 18 de septiembre de 2025|Miércoles 17 de septiembre de 2025|
 | Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025|Miércoles 01 de octubre de 2025|
