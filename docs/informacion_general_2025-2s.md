@@ -146,7 +146,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
     * Del main de sólidos desde el comienzo hasta la sección 2.3. (incluida)
 
 * **Examen 2:** 25% (semana 8): Jueves 16 de octubre de 2025/Miércoles 15 de octubre de 2025.
-
+Del main de sólidos desde la sección 2.4. (incluida) a la sección 2.7 (incluida), y todos los códigos asociados.
 
 * **Examen 3:** 25% (semana 12): Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.
 
