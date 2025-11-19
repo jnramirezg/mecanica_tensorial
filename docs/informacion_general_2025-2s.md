@@ -121,7 +121,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 | Evaluación parcial 1 - parte 1 | 12.5% | Jueves 18 de septiembre de 2025|Miércoles 17 de septiembre de 2025|
 | Evaluación parcial 1 - parte 2 | 12.5% | Jueves 02 de octubre de 2025|Miércoles 01 de octubre de 2025|
 | Evaluación parcial 2     | 25%   | Jueves 16 de octubre de 2025|Miércoles 15 de octubre de 2025   |
-| Evaluación parcial 3     | 25%   | Jueves 13 de noviembre de 2025|Miércoles 12 de noviembre de 2025    |
+| Evaluación parcial 3     | 25%   | Jueves 20 de noviembre de 2025|Miércoles 19 de noviembre de 2025    |
 | Evaluación parcial 4     | 25%   | Jueves 11 de diciembre de 2025|Miércoles 10 de diciembre de 2025    |
 
 ## Sobre la evaluación:
@@ -148,8 +148,8 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 * **Examen 2:** 25% (semana 8): Jueves 16 de octubre de 2025/Miércoles 15 de octubre de 2025.
 Del main de sólidos desde la sección 2.4. (incluida) a la sección 2.7 (incluida), y todos los códigos asociados.
 
-* **Examen 3:** 25% (semana 12): Jueves 13 de noviembre de 2025/Miércoles 12 de noviembre de 2025.
-
+* **Examen 3:** 25% (semana 13): Jueves 20 de noviembre de 2025/Miércoles 19 de noviembre de 2025.
+Del main de sólidos desde la sección 2.8. (incluida) a la sección 2.10 (incluida), todos los códigos y ejercicios asociados.
 
 * **Examen 4:** 25% (semana 16): Jueves 11 de diciembre de 2025/Miércoles 10 de diciembre de 2025.
 
